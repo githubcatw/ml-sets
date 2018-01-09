@@ -1,2 +1,3 @@
-# ml-sets
-Machine learning datasets
+# hg-letters-new
+Letters of the English alphabet.
+Font: Segoe UI Bold.
